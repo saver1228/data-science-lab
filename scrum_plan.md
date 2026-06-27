@@ -46,3 +46,13 @@ As a data analyst, I want to visualize student scores by study time so I can und
 - A chart is created to compare study time and student scores.
 - The visualization clearly shows whether higher study time is related to better scores.
 - The chart can be used in the final project report.
+
+# Part 3 – Retrospective Reflection
+
+During this simulation, the team successfully created a GitHub repository, used branches, and practiced committing and merging changes through a pull request. The Scrum planning process also helped organize the data project into clear roles, backlog items, and sprint tasks.
+
+One thing that went well was that the work was divided into smaller and manageable tasks. This made it easier to understand what needed to be completed first.
+
+In the next sprint, the team could improve by adding clearer task deadlines and assigning each backlog item to a specific team member.
+
+Git and Scrum together help organize data science work because Git tracks code and file changes, while Scrum helps the team plan, prioritize, and review progress.
